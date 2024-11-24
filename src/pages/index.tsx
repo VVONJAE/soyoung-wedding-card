@@ -57,7 +57,7 @@ export default function Home() {
         />
         <meta
           property="og:url"
-          content="https://kyuhyuk.kr/wedding-invitation"
+          content="https://vvonjae.github.io/wonjae-soyoung-wedding"
         />
         <meta name="theme-color" content="#BCAAA4" />
         <title>정원재❤조소영 결혼식에 초대합니다</title>
