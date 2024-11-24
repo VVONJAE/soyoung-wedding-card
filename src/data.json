@@ -31,8 +31,8 @@
     }
   },
   "kakaotalk": {
-    "api_token": "",
-    "wedding_invitation_url": "",
-    "share_image": ""
+    "api_token": "d3ef89b076f650d2a3f8e8e8443df217",
+    "wedding_invitation_url": "https://vvonjae.github.io/wonjae-soyoung-wedding",
+    "share_image": "./public/assets/0405.jpg"
   }
 }
